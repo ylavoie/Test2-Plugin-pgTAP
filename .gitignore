@@ -1,35 +1,30 @@
-!Build/
-.last_cover_stats
-/META.yml
-/META.json
-/MYMETA.*
-*.o
-*.pm.tdy
-*.bs
-
-# Devel::Cover
-cover_db/
-
-# Devel::NYTProf
-nytprof.out
-
-# Dizt::Zilla
-/.build/
-
-# Module::Build
-_build/
+*.swp
+*.bak
+*~
+*.old
+*.tar.gz
+*.ERR
+*.orig
+*.rej
+Makefile
+blib/
+pm_to_blib
 Build
-Build.bat
-
-# Module::Install
-inc/
-
-# ExtUtils::MakeMaker
-/blib/
-/_eumm/
-/*.gz
-/Makefile
-/Makefile.old
-/MANIFEST.bak
-/pm_to_blib
-/*.zip
+_build
+cover_db/
+MYMETA.*
+/Test2-*/
+/.build
+TODO
+t2_lib
+POD_TEMPLATE.POD
+/old*/
+event-log-*
+.yath-persist.json
+test-logs/
+/pt/
+/tt/
+/*.jsonl
+t2/non_perl/test.binary
+t/integration/test-broken-symlinks/broken-symlink.tx
+coverage.json
