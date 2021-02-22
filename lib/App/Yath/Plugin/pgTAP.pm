@@ -3,7 +3,7 @@ package App::Yath::Plugin::pgTAP;
 use strict;
 use warnings;
 
-our $VERSION = '0.001102';
+our $VERSION = '0.001103';
 
 use parent 'App::Yath::Plugin';
 use App::Yath::Options;
