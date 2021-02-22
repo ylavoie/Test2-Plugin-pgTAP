@@ -3,7 +3,7 @@ package App::Yath::Plugin::pgTAP;
 use strict;
 use warnings;
 
-our $VERSION = '0.001101';
+our $VERSION = '0.001102';
 
 use parent 'App::Yath::Plugin';
 use App::Yath::Options;
@@ -185,8 +185,7 @@ App::Yath::Plugin::pgTAP - Plugin to allow testing pgTAP files.
 
 =head1 DESCRIPTION
 
-This plugin adds support for executing pgTAP PostgreSQL tests under
-L<Test2::Harness> and yath.
+This module set invocation support for executing pgTAP PostgreSQL tests under L<Test2::Harness> and yath.
 
 =head1 SOURCE
 

@@ -12,8 +12,8 @@ SYNOPSIS
 
 DESCRIPTION
 
-    This plugin adds support for executing pgTAP PostgreSQL tests under
-    Test2::Harness and yath.
+    This module set invocation support for executing pgTAP PostgreSQL tests
+    under Test2::Harness and yath.
 
 SOURCE
 

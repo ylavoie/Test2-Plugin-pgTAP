@@ -12,8 +12,7 @@ App::Yath::Plugin::pgTAP - Plugin to allow testing pgTAP files.
 
 # DESCRIPTION
 
-This plugin adds support for executing pgTAP PostgreSQL tests under
-[Test2::Harness](https://metacpan.org/pod/Test2%3A%3AHarness) and yath.
+This module set invocation support for executing pgTAP PostgreSQL tests under [Test2::Harness](https://metacpan.org/pod/Test2%3A%3AHarness) and yath.
 
 # SOURCE
 
