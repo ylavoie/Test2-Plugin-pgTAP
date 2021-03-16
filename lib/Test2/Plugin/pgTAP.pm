@@ -3,7 +3,7 @@ package Test2::Plugin::pgTAP;
 use strict;
 use warnings;
 
-our $VERSION = '0.001103';
+our $VERSION = '0.001105';
 
 1;
 

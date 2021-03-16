@@ -3,7 +3,7 @@ package Test2::Harness::Runner::Job::pgTAP;
 use strict;
 use warnings;
 
-our $VERSION = '0.001103';
+our $VERSION = '0.001104';
 
 use Test2::Harness::Util::HashBase;
 use parent 'Test2::Harness::Runner::Job';
